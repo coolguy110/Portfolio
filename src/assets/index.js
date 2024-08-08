@@ -44,20 +44,12 @@ import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
-
-
 import wxllspace from'./projects/wxllspace.png';
 import age1 from'./projects/age1.png';
 import deus from'./projects/deus.png';
 import hashgreed from'./projects/hashgreed.png';
 import danteai from'./projects/danteai.png';
-
+import totalmoto from './projects/totalmoto.png';
 
 export {
   bwmap,
@@ -94,21 +86,14 @@ export {
   redux,
   tailwind,
   typescript,
-  // komikult,
-  // leaderboard,
-  // math,
-  // movie,
-  // nyeusi,
-  // space,
   coverhunt,
   dcc,
   kelhel,
   microverse,
-  
-  
   wxllspace,
   age1,
   deus,
   hashgreed,
   danteai,
+  totalmoto,
 };

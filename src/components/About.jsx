@@ -38,7 +38,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
         Hello, I'm Pagan, a software wizard from the digital jungle of NYC, where I turn complex code into show- stopping solutions, 
-        armed with a degree from the New York City College of Technology and a mastery in Python, Node, Go, and .NET Framework and JS frameworks(React, Vue, Angular). 
+        armed with a degree from the New York City College of Technology and a mastery in Python/Django, Node(Express, Nest), Go, AWS, Azure and JS frameworks(React, Vue). 
         Like a knight in digital armor, I'm on a quest to transform chaotic ideas into harmonious digital realities. 
         My dream? To build not just apps, but digital empires, teaming up with fellow tech enthusiasts to create extraordinary wonders in the world of software development.
       </motion.p>

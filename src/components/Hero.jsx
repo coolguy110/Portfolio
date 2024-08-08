@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { daniel, bwmap, worldmap } from '../assets';
+import { pagan, bwmap, worldmap } from '../assets';
 
 const Hero = () => {
   return (
@@ -20,7 +20,7 @@ const Hero = () => {
           alt="world map"
           className="w-full h-full sm:hidden block object-cover"
         />
-        {/* <span>Daniel Ho</span> */}
+        {/* <span>Pagan Gabriel</span> */}
 
 
       </div>
@@ -45,7 +45,7 @@ const Hero = () => {
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Daniel Ho
+                Pagan Gabriel
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-neutral-600`}>
@@ -85,7 +85,7 @@ const Hero = () => {
         <div>
           <img
             className="absolute bottom-0 ml-[30vw] lg:ml-[60vw] md:ml-[50vw] xmd:ml-[55vw] 2xl:ml-[65vw] sm:h-[90vh] md:h-[70vh] xl:h-[80vh]"
-            src={daniel}
+            src={pagan}
             alt="shaquille"
           />
         </div>

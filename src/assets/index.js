@@ -7,7 +7,7 @@ import logo from './logo/logo-black.png';
 // import logotext from './logo/logo-text-black.png';
 
 // import shaq from './personal/shaq.png';
-import daniel from './personal/daniel.png'
+import pagan from './personal/pagan.png'
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -65,9 +65,7 @@ export {
   whiteabstract,
   worldmap,
   logo,
-  // logotext,
-  // shaq,
-  daniel,
+  pagan,
   backend,
   ux,
   frontend,

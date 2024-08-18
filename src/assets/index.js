@@ -49,7 +49,7 @@ import age1 from'./projects/age1.png';
 import deus from'./projects/deus.png';
 import hashgreed from'./projects/hashgreed.png';
 import danteai from'./projects/danteai.png';
-import totalmoto from './projects/totalmoto.png';
+import totalmoto from './projects/Totalmoto.png';
 
 export {
   bwmap,

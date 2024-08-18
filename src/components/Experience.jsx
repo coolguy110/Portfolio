@@ -9,7 +9,7 @@ import { experiences } from '../constants';
 import { SectionWrapper } from '../hoc';
 import { download, downloadHover, resume } from '../assets';
 import { textVariant } from '../utils/motion';
-import pdf from '../assets/resume/Daniel-Ho-Resume.pdf';
+import pdf from '../assets/resume/pagan.pdf';
 
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
@@ -110,7 +110,7 @@ const Experience = () => {
               onClick={() =>
                 window.open(
                   pdf,
-                  // '../assets/resume/Daniel-Ho-Resume.pdf',
+                  '../assets/resume/pagan.pdf',
                   '_blank'
                 )
               }

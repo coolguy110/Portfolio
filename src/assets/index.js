@@ -40,9 +40,9 @@ import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
 import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
+import clutch from './company/clutch.png';
+import bigdigit from './company/bigdigital.png';
+import ccd from './company/ccd.png';
 
 import wxllspace from'./projects/wxllspace.png';
 import age1 from'./projects/age1.png';
@@ -87,9 +87,9 @@ export {
   tailwind,
   typescript,
   coverhunt,
-  dcc,
-  kelhel,
-  microverse,
+  bigdigit,
+  ccd,
+  clutch, 
   wxllspace,
   age1,
   deus,

@@ -20,6 +20,8 @@ import {
   ccd,
   bigdigit,
   clutch,
+  bucketpixel,
+  newton,
   wxllspace,
   age1,
   deus,
@@ -132,9 +134,9 @@ const experiences = [
   },
   {
     title: 'Senior Software Engineer',
-    company_name: 'Clutch',
-    company_state:'Los Angeles, California, United States',
-    icon: clutch,
+    company_name: 'Newton Wireless',
+    company_state:'Orlando, Florida, United States',
+    icon: newton,
     iconBg: '#333333',
     date: 'Jun 2022 - Apr 2023',
   },
@@ -145,6 +147,14 @@ const experiences = [
     icon: bigdigit,
     iconBg: '#333333',
     date: 'Jun 2020 - Nov 2021',
+  },
+  {
+    title: 'Front-End Developer',
+    company_name: 'BucketPixel',
+    company_state:'Hollywood, Florida, United States',
+    icon: bucketpixel,
+    iconBg: '#333333',
+    date: 'Jun 2018 - Apr 2020',
   },
 ];
 

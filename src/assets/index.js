@@ -43,7 +43,8 @@ import coverhunt from './company/coverhunt.png';
 import clutch from './company/clutch.png';
 import bigdigit from './company/bigdigital.png';
 import ccd from './company/ccd.png';
-
+import newton from './company/newton.jpg';
+import bucketpixel from './company/bucketpixel.png';
 import wxllspace from'./projects/wxllspace.png';
 import age1 from'./projects/age1.png';
 import deus from'./projects/deus.png';
@@ -89,7 +90,9 @@ export {
   coverhunt,
   bigdigit,
   ccd,
-  clutch, 
+  clutch,
+  bucketpixel, 
+  newton,
   wxllspace,
   age1,
   deus,
